@@ -28,8 +28,8 @@ public class SentenceSimilarityIII {
         String[] words1 = sentence1.split(" ");
         String[] words2 = sentence2.split(" ");
 
-        int lower1 = 0, upper1 = words1.length;
-        int lower2 = 0, upper2 = words2.length;
+        int lower1 = 0, upper1 = words1.length - 1;
+        int lower2 = 0, upper2 = words2.length - 1;
 
         // first move from lower on both senetences
         while (lower1 < words1.length && lower2 < words2.length) {
