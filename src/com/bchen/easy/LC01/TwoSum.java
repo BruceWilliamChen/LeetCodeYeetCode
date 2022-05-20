@@ -1,4 +1,4 @@
-package com.bchen.LC01;
+package com.bchen.easy.LC01;
 import java.util.HashMap;
 import java.util.Map;
 

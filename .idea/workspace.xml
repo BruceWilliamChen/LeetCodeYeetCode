@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d426f7d-426e-49f8-a29b-2a1dbf31565b" name="Default Changelist" comment="" />
+    <list default="true" id="8d426f7d-426e-49f8-a29b-2a1dbf31565b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bchen/LC01/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bchen/easy/LC01/TwoSum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +19,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ujCMi9LtIlhiIRUYdHrZNLrZPj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/bchen/medium/LC1813/LC" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -51,9 +67,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="543" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1625169570875">
+    <state x="543" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1653014831390">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
-    <state x="543" y="359" key="com.intellij.ide.util.TipDialog/0.25.1792.1010@0.25.1792.1010" timestamp="1625169570875" />
+    <state x="543" y="359" key="com.intellij.ide.util.TipDialog/0.25.1792.1010@0.25.1792.1010" timestamp="1653014831390" />
+    <state x="652" y="451" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1653018038957">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="652" y="451" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1010@0.25.1792.1010" timestamp="1653018038957" />
   </component>
 </project>
