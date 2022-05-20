@@ -6,9 +6,9 @@ I maintain a project of my own implementation of leetcode puzzles.
 2. Solutions come with simple explanations :mortar_board:
 3. For some puzzles, multiple solutions are maintained :bookmark_tabs:
 
-# Index :clip_board:
-* EASY
+# Index :clipboard:
+* EASY :smiley_cat:
     * [LC01 - Two Sum](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC01/TwoSum.java)
     * [LC860 - Lemonade Change](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC860/LemonadeChange.java)
-* MEDIUM
+* MEDIUM :pouting_cat:
     * [LC1080 - Insufficient Nodes In Root To Leaf Paths](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1080/InsufficientNodesInRootToLeafPaths.java)
