@@ -1,4 +1,4 @@
-# Leetable and Yeetable code :rocket:
+# Leetable and Yeetable :rocket:
 I maintain a project of my own implementation of leetcode puzzles.
 1. Java project that is buildable :hammer:
     1. Each question is grouped under its difficulty level and index number :pushpin: 
