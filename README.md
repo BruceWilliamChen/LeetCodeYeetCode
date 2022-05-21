@@ -1,4 +1,4 @@
-# You found the treasure my adventurer :blue_book: :orange_book: :rocket:
+# You found the treasure my adventurer :rocket:
 I maintain a project of my own implementation of leetcode puzzles.
 1. Java project that is buildable :hammer:
     1. Each question is grouped under its difficulty level and index number :pushpin: 
