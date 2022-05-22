@@ -13,5 +13,9 @@ I maintain a project of my own implementation of leetcode puzzles.
     * [LC860 - Lemonade Change](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC860/LemonadeChange.java)
 * MEDIUM :pouting_cat:
     * [LC34 - Find First and Last Positions In Sorted Array](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC34/FindFirstLastPositionElementSortedArray.java)
+    * [LC36 - Valid Soduku](https://github.com/BruceWilliamChen/LeetCodeYeetCode/tree/main/src/com/bchen/medium/LC36)
+        * [brute-force](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC36/ValidSodukuSolution1.java)
+        * [memory](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC36/ValidSodukuSolution2.java)
+    * [LC38 - Count and Say]()
     * [LC1080 - Insufficient Nodes In Root To Leaf Paths](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1080/InsufficientNodesInRootToLeafPaths.java)
     * [LC1813 - Sentences Similarity III](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1813/SentenceSimilarityIII.java)
