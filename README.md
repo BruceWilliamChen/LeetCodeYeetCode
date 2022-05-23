@@ -6,7 +6,7 @@ I maintain a project of my own implementation of leetcode puzzles.
 2. Solutions come with simple explanations :mortar_board:
 3. For some puzzles, multiple solutions are maintained :bookmark_tabs:
 
-# Index :clipboard:
+# Solutions Index Menu:clipboard:
 * EASY :smiley_cat:
     * [LC01 - Two Sum](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC01/TwoSum.java)
     * [LC35 - Search Insert Position](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC35/SearchInsertPosition.java)
@@ -18,6 +18,7 @@ I maintain a project of my own implementation of leetcode puzzles.
         * [memory](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC36/ValidSodukuSolution2.java)
     * [LC38 - Count and Say]()
     * [LC39 - CombinationSum]()
+    * [LC43 - Multiply Strings]()
     * [LC1080 - Insufficient Nodes In Root To Leaf Paths](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1080/InsufficientNodesInRootToLeafPaths.java)
     * [LC1813 - Sentences Similarity III](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1813/SentenceSimilarityIII.java)
 * Hard :scream_cat:
