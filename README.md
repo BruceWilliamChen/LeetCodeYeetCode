@@ -17,5 +17,9 @@ I maintain a project of my own implementation of leetcode puzzles.
         * [brute-force](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC36/ValidSodukuSolution1.java)
         * [memory](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC36/ValidSodukuSolution2.java)
     * [LC38 - Count and Say]()
+    * [LC39 - CombinationSum]()
     * [LC1080 - Insufficient Nodes In Root To Leaf Paths](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1080/InsufficientNodesInRootToLeafPaths.java)
     * [LC1813 - Sentences Similarity III](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1813/SentenceSimilarityIII.java)
+* Hard :scream_cat:
+    * [LC41 - First Missing Positive Integer]()
+    * [LC42 - Trapping Rain Water]()
