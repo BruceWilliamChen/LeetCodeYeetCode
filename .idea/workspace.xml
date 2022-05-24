@@ -21,6 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ujCMi9LtIlhiIRUYdHrZNLrZPj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -106,10 +109,11 @@
       <screen x="1792" y="25" width="1080" height="1895" />
     </state>
     <state x="1841" y="334" key="SettingsEditor/1792.25.1080.1895/0.25.1792.1010@1792.25.1080.1895" timestamp="1653076561646" />
-    <state x="543" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1653019978672">
-      <screen x="0" y="25" width="1792" height="1010" />
+    <state x="2119" y="652" key="com.intellij.ide.util.TipDialog" timestamp="1653362285963">
+      <screen x="1792" y="25" width="1080" height="1895" />
     </state>
     <state x="543" y="359" key="com.intellij.ide.util.TipDialog/0.25.1792.1010@0.25.1792.1010" timestamp="1653019978672" />
+    <state x="2119" y="652" key="com.intellij.ide.util.TipDialog/1792.25.1080.1895/0.25.1792.1010@1792.25.1080.1895" timestamp="1653362285963" />
     <state x="652" y="451" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1653018038957">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>

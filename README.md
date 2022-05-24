@@ -6,21 +6,38 @@ I maintain a project of my own implementation of leetcode puzzles.
 2. Solutions come with simple explanations :mortar_board:
 3. For some puzzles, multiple solutions are maintained :bookmark_tabs:
 
-# Solutions Index Menu:clipboard:
+# Solution Code Index Menu (NOT full list):clipboard:
 * EASY :smiley_cat:
-    * [LC01 - Two Sum](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC01/TwoSum.java)
-    * [LC35 - Search Insert Position](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC35/SearchInsertPosition.java)
-    * [LC860 - Lemonade Change](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC860/LemonadeChange.java)
+    * [Two Sum](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC01/TwoSum.java)
+    * [Palindrome NUmber]()
+    * [Roman To Integer]()
+    * [LongestCommonPrefix]()
+    * [MergedTwoSortedLists]()
+    * [Search Insert Position](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC35/SearchInsertPosition.java)
+    * [Lemonade Change](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/easy/LC860/LemonadeChange.java)
+    * .......
 * MEDIUM :pouting_cat:
-    * [LC34 - Find First and Last Positions In Sorted Array](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC34/FindFirstLastPositionElementSortedArray.java)
-    * [LC36 - Valid Soduku](https://github.com/BruceWilliamChen/LeetCodeYeetCode/tree/main/src/com/bchen/medium/LC36)
+    * [Longest Substrings Without Repeating Characters]()
+    * [Longest Palindromic Substring]()
+    * [ContainerWithMostWater]()
+    * [Three Sum]()
+    * [Remove Nth Node From List End]()
+    * [Permutations]()
+    * [Permutations II]()
+    * [Find First and Last Positions In Sorted Array](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC34/FindFirstLastPositionElementSortedArray.java)
+    * [Valid Soduku](https://github.com/BruceWilliamChen/LeetCodeYeetCode/tree/main/src/com/bchen/medium/LC36)
         * [brute-force](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC36/ValidSodukuSolution1.java)
         * [memory](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC36/ValidSodukuSolution2.java)
-    * [LC38 - Count and Say](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC38/CountAndSay.java)
-    * [LC39 - CombinationSum](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC39/CombinationSum.java)
-    * [LC43 - Multiply Strings](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC43/MultiplyStrings.java)
-    * [LC1080 - Insufficient Nodes In Root To Leaf Paths](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1080/InsufficientNodesInRootToLeafPaths.java)
-    * [LC1813 - Sentences Similarity III](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1813/SentenceSimilarityIII.java)
+    * [Count and Say](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC38/CountAndSay.java)
+    * [CombinationSum](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC39/CombinationSum.java)
+    * [Multiply Strings](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC43/MultiplyStrings.java)
+    * [Insufficient Nodes In Root To Leaf Paths](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1080/InsufficientNodesInRootToLeafPaths.java)
+    * [Sentences Similarity III](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/medium/LC1813/SentenceSimilarityIII.java)
+    * .......
 * Hard :scream_cat:
-    * [LC41 - First Missing Positive Integer](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/hard/LC41/FirstMissingPositiveInteger.java)
-    * [LC42 - Trapping Rain Water](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/hard/LC42/TrappingRainWater.java)
+    * [First Missing Positive Integer](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/hard/LC41/FirstMissingPositiveInteger.java)
+    * [Trapping Rain Water](https://github.com/BruceWilliamChen/LeetCodeYeetCode/blob/main/src/com/bchen/hard/LC42/TrappingRainWater.java)
+    * [Regular Expression Matching]()
+    * [Merge K Sorted Lists]()
+    * [Longest Valid Parentheses]()
+    * .......
