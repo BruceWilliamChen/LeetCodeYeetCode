@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d426f7d-426e-49f8-a29b-2a1dbf31565b" name="Default Changelist" comment="Added solutions to 74, 75 and 513">
-      <change afterPath="$PROJECT_DIR$/src/com/bchen/medium/LC513/FindBottomLeftTreeValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bchen/medium/LC513/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bchen/medium/LC74/Search2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bchen/medium/LC75/SortColors.java" afterDir="false" />
+    <list default="true" id="8d426f7d-426e-49f8-a29b-2a1dbf31565b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bchen/medium/LC15/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bchen/medium/LC15/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bchen/medium/LC16/ThreeSumClosest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bchen/medium/LC16/ThreeSumClosest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1625169564664</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added solutions to 74, 75 and 513">
+      <created>1660021806878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660021806878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,10 +96,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solutions to 74, 75 and 513" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1976" y="203" width="815" height="804" key="CommitChangelistDialog2" timestamp="1660021758867">
+    <state x="1976" y="203" width="815" height="804" key="CommitChangelistDialog2" timestamp="1660021806722">
       <screen x="1792" y="25" width="1080" height="1895" />
     </state>
-    <state x="1976" y="203" width="815" height="804" key="CommitChangelistDialog2/1792.25.1080.1895/0.25.1792.1010@1792.25.1080.1895" timestamp="1660021758867" />
+    <state x="1976" y="203" width="815" height="804" key="CommitChangelistDialog2/1792.25.1080.1895/0.25.1792.1010@1792.25.1080.1895" timestamp="1660021806722" />
     <state x="1792" y="554" key="DiffContextDialog" timestamp="1660021566157">
       <screen x="1792" y="25" width="1080" height="1895" />
     </state>
@@ -146,6 +152,10 @@
       <screen x="1792" y="25" width="1080" height="1895" />
     </state>
     <state x="1841" y="334" key="SettingsEditor/1792.25.1080.1895/0.25.1792.1010@1792.25.1080.1895" timestamp="1660021508855" />
+    <state x="1932" y="698" key="Vcs.Push.Dialog.v2" timestamp="1660021809530">
+      <screen x="1792" y="25" width="1080" height="1895" />
+    </state>
+    <state x="1932" y="698" key="Vcs.Push.Dialog.v2/1792.25.1080.1895/0.25.1792.1010@1792.25.1080.1895" timestamp="1660021809530" />
     <state x="543" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1660018712643">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>

@@ -34,4 +34,32 @@ public class ThreeSumClosest {
 
         return result;
     }
+
+    public int threeSumClosest2(int[] nums, int target) {
+        if (nums == null || nums.length == 0) return -1;
+
+        Arrays.sort(nums);
+
+        // very similar to 3 sum, just keep track of closet
+        int distance = Integer.MAX_VALUE;
+        int result = 0;
+
+        for (int i = 0; i < nums.length - 2; i++) {
+            int lowerbound = i + 1, upperbound = nums.length - 1;
+            while (upperbound > lowerbound) {
+                int sum = nums[lowerbound] + nums[upperbound] + nums[i];
+                int diff = Math.abs(target - sum);
+                if (diff == 0) return sum;
+                if (diff <= distance) {
+                    distance = diff;
+                    result = sum;
+                }
+                // then move cursor based on sum
+                if (sum < target) lowerbound++;
+                else upperbound--;
+            }
+        }
+
+        return result;
+    }
 }
